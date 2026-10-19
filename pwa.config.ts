@@ -37,8 +37,8 @@ export default defineConfig({
 
   // OneSignal is only available if you are using cloudflare workers
   oneSignal: {
-    enabled: false, // To enable OneSignal, set this to true
-    appId: '********-****-****-****-************', // Replace with your OneSignal App Id
+    enabled: true, // To enable OneSignal, set this to true
+    appId: '99b5b437-992f-4646-af88-b5a4a3ba5828', // Replace with your OneSignal App Id
     allowLocalhostAsSecureOrigin: true,
   },
 
