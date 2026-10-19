@@ -1,7 +1,7 @@
 # Blogger PWA
 
 Build a PWA for your Blogger site.
-
+ 
 ## Highlights
 
 1. **Automation**
