@@ -3,9 +3,9 @@ import { defineConfig } from '@/types/config';
 export default defineConfig({
   manifest: {
     id: '/',
-    name: 'My Blog',
-    short_name: 'My Blog',
-    description: 'My blog description goes here...',
+    name: 'The RaghavaN',
+    short_name: 'raghavan',
+    description: '/',
     dir: 'auto',
     lang: 'en-US',
     background_color: '#fff',
